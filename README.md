@@ -30,7 +30,7 @@ A robust and user-friendly **College Management System** developed using **VB.NE
 1. Clone the repository:
 
    
-   git clone https://github.com/Shubhamraj1909/College-Management-System
+   git clone https://github.com/Shubhamraj1909/College_Management_System.git
    
 
 2. Open the solution (`.sln`) file in **Visual Studio**.
