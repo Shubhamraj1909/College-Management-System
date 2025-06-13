@@ -67,7 +67,7 @@ A robust and user-friendly **College Management System** developed using **VB.NE
   - `Results`
   - `Users` (for login)
 
-> SQL script is provided in the `/Database` folder.
+
 
 
 
