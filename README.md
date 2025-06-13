@@ -55,7 +55,7 @@ A robust and user-friendly **College Management System** developed using **VB.NE
 ---
 
 
-
+---
 ## 🗃️ Database
 
 - The database includes the following tables:
@@ -68,7 +68,7 @@ A robust and user-friendly **College Management System** developed using **VB.NE
   - `Results`
   - `Users` (for login)
 
-
+---
 
 
 
