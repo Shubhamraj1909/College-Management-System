@@ -44,18 +44,19 @@ A robust and user-friendly **College Management System** developed using **VB.NE
 
 
 ## 🧩 Folder Structure
----
 
+```
 📁 CollegeManagementSystem
 ├── 📂 Forms           # All Windows Forms (UI)
 ├── 📂 Database        # .sql file to set up database schema
 ├── 📂 Classes         # Business logic and data access
 ├── College Management System.sln    # Visual Studio Solution
+```
 
 ---
 
 
----
+
 ## 🗃️ Database
 
 - The database includes the following tables:
