@@ -44,7 +44,7 @@ A robust and user-friendly **College Management System** developed using **VB.NE
 
 
 ## 🧩 Folder Structure
-
+---
 
 📁 CollegeManagementSystem
 ├── 📂 Forms           # All Windows Forms (UI)
@@ -52,6 +52,7 @@ A robust and user-friendly **College Management System** developed using **VB.NE
 ├── 📂 Classes         # Business logic and data access
 ├── College Management System.sln    # Visual Studio Solution
 
+---
 
 
 
